@@ -16,3 +16,5 @@ services:
       - world=/root/.local/share/Terraria/Worlds/newworld.wld
       - password=hello
       - motd="Welcome to my server! :)"
+
+# Update: 2025-10-19
